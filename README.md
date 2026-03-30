@@ -1,5 +1,5 @@
 
-<p align="center">Eu ❤️ decifrar dados para criar soluções impactantes.<br>Como estudante de Ciência de Dados, sou movido pela curiosidade de explorar padrões, descobrir insights e aplicar tecnologia para resolver problemas complexos. Tenho paixão por aprendizado de máquina, análise preditiva e visualização de dados, combinando habilidades técnicas com criatividade para transformar dados em decisões estratégicas. Meu foco é desenvolver soluções práticas, com um olhar voltado à inovação e utilizando as melhores práticas de desenvolvimento ágil.</p>
+<p align="center">Desenvolvedor Full-Stack focado em criar soluções completas e impactantes. Transformando desafios complexos em sistemas web ágeis e integrações inteligentes com React, Flask e Python.</p>
 
 ## My Skills
 
